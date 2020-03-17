@@ -2,7 +2,7 @@
 
 To run the app
 
-asouming you have pipenv installed
+assuming you have pipenv installed
 
 pipenv shell
 
